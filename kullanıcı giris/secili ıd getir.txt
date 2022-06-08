@@ -1,0 +1,12 @@
+ Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        Dim dtb As New DataTable()
+        dtb = raporla("select * from personeller where p_id='" + txtpid.Text.ToString + "'")
+        If (dtb.Rows.Count > 0) Then
+            TextBox2.Text = dtb.Rows(0)(1).ToString
+            TextBox1.Text = dtb.Rows(0)(2).ToString
+            Textkullan.Text = dtb.Rows(0)(3).ToString
+            Textsifre.Text = dtb.Rows(0)(4).ToString
+        Else
+            MessageBox.Show("Kayıt Yok")
+        End If
+    End Sub

@@ -1,0 +1,46 @@
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbprojAssemblyReference.cache
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.Form1.resources
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.Resources.resources
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbproj.GenerateResource.cache
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbproj.CoreCompileInputs.cache
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.exe.config
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.exe
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.pdb
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.xml
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\bin\Debug\MySql.Data.dll
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbproj.CopyComplete
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.exe
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.xml
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.pdb
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.anaform.resources
+C:\Users\Marfom\source\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.personeller.resources
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.exe.config
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.exe
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.pdb
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.xml
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\bin\Debug\MySql.Data.dll
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbprojAssemblyReference.cache
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.anaform.resources
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.Form1.resources
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.Resources.resources
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.personeller.resources
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbproj.GenerateResource.cache
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbproj.CoreCompileInputs.cache
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbproj.CopyComplete
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.exe
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.xml
+D:\Guvenli Klasor\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.pdb
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.exe.config
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.exe
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.xml
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.pdb
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.exe
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.pdb
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\bin\Debug\kullanıcı giris.xml
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\bin\Debug\MySql.Data.dll
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbprojResolveAssemblyReference.cache
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.anaform.resources
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.Form1.resources
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.Resources.resources
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı_giris.personeller.resources
+C:\Users\BT\Desktop\repos\kullanıcı giris\kullanıcı giris\obj\Debug\kullanıcı giris.vbproj.GenerateResource.Cache
